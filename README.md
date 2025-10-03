@@ -49,6 +49,12 @@ pnpm start
 ## Contributing
 - Open issues and PRs with clear descriptions.
 - Use conventional commits if possible.
-
+##Team
+Shubh Gupta
+Aakash Bansal
+Utkarsh Singh
+Mahima Show
+Rachna
+Anushka Jain
 ## License
 Add a LICENSE file if you want to open-source this project; otherwise specify your chosen license here.
