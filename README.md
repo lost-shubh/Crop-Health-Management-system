@@ -1,6 +1,7 @@
 # Crop Health Management System
 
 A web application for managing and analyzing crop health data. This project scaffolding appears to use Next.js and TypeScript with pnpm, and includes configurations for PostCSS and custom components.
+https://v0.app/chat/crop-health-platform-vNhZJ7oslxw
 
 ## Features (planned)
 - Record crop health observations (e.g., disease, pests, stress)
