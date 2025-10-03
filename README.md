@@ -57,4 +57,4 @@ Mahima Show
 Rachna
 Anushka Jain
 ## License
-Add a LICENSE file if you want to open-source this project; otherwise specify your chosen license here.
+Licensed under MIT.
